@@ -1,6 +1,6 @@
 # Tibetan-Cursive-Ground-Truth
 
-[DOI: 10.5281/zenodo.10450635](https://zenodo.org/records/10450635) 
+[![DOI](https://zenodo.org/badge/731575798.svg)](https://zenodo.org/doi/10.5281/zenodo.10450634)
 
 This repository contains the Ground Truth (GT) for Handwritten Text Recognition (HTR) models to recognize the handwritten Tibetan scripts Drutsa ('bru tsha) and Betsug (dpe tshugs). The models trained on this basis are public on Transkribus (model IDs: [54525](https://readcoop.eu/model/tibetan-cursive-drutsa/) and [54935](https://readcoop.eu/model/tibetan-cursive-betsug/)).
 
